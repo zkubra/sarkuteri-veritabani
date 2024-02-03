@@ -1,0 +1,11 @@
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\bin\Debug\sarkuteri2.exe.config
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\bin\Debug\sarkuteri2.exe
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\bin\Debug\sarkuteri2.pdb
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.csproj.AssemblyReference.cache
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.Form1.resources
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.Properties.Resources.resources
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.csproj.GenerateResource.cache
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.csproj.CoreCompileInputs.cache
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.exe
+C:\Users\Zahide\source\repos\sarkuteri2\sarkuteri2\obj\Debug\sarkuteri2.pdb
